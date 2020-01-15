@@ -6,5 +6,6 @@ Date: 2020/01/14
 
 int main(void) {
      printf( "Hello World!\n");
+     printf("computer science\n");
      return 0;
 }
