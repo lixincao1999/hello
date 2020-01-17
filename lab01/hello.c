@@ -9,5 +9,7 @@ int main(void) {
      printf("computer science\n");
      printf( "Albert Li\n");
      printf("computer science\n");
+	 printf("Anastasiya Krestovsky\n");
+	 printf("computer science\n");
      return 0;
 }
