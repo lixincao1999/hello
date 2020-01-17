@@ -7,5 +7,7 @@ Date: 2020/01/14
 int main(void) {
      printf( "Lixin Cao\n");
      printf("computer science\n");
+     printf( "Albert Li\n");
+     printf("computer science\n");
      return 0;
 }
